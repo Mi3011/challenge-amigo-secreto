@@ -18,13 +18,28 @@ Um aplicativo simples para organizar um sorteio de amigo secreto. Os participant
 ## 🛠️ Tecnologias utilizadas  
 - HTML5  
 - CSS3  
-- JavaScript (vanilla)  
+- JavaScript 
 
 ## 📂 Estrutura do projeto  
+📁 amigo-secreto
+├── 📄 index.html # Estrutura do site
+├── 📄 style.css # Estilos do projeto
+├── 📄 app.js # Lógica do sorteio e interações
+├── 📁 assets/ # Imagens e ícones
+└── 📄 README.md # Documentação do projeto
 
+bash
+Copiar
+Editar
 
 ## ⚙️ Instalação  
 1. Clone este repositório:  
    ```bash
    git clone https://github.com/seu-usuario/amigo-secreto.git
+Abra o arquivo index.html no navegador.
 
+
+   
+👥 Autores
+   Michele Nunes
+   📧 Caso tenha dúvidas ou sugestões, sinta-se à vontade para entrar em contato! 🚀🎉
